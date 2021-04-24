@@ -1,4 +1,4 @@
 # ACEMR
-The resources in the paper "Exploring Word Segmentation and Medical Concept Recognition for Chinese Medical Texts" are released here.
+This is the resources of the paper "Exploring Word Segmentation and Medical Concept Recognition for Chinese Medical Texts".
 
-Some sample data are provided here now. The ACEMR corpus can be available if everything is ready.
+Some sample data are provided in the "sample_data.txt" file now, where the medical concept is labeled by the a symbol '_' for each word. The ACEMR corpus can be available if everything is ready.
