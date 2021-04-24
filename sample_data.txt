@@ -1,0 +1,9 @@
+1_O ._O 患者_Gr 老年_Gr 女性_Gr ,_O 慢性_Ql 病程_Di ,_O 急性_Ql 加重_SOS ;_O 
+2_O ._O 患者_Gr 主_Ql 因_CE “_O 反复_Ql 咳嗽_SOS 、_O 咳痰_SOS 3_O 月_O ,_O 加重_SOS 3_O 天_O ”_O 入院_E 。_O 
+3_O ._O 患者_Gr 于_O 3_O 月_O 前_T 无_Ab 明显_Ql 诱因_CE 出现_Pre 咳嗽_SOS 、_O 咳痰_SOS ,_O 痰_BS 为_O 白色_Ql 粘痰_SOS ,_O 无_Ab 发热_SOS ,_O 无_Ab 咯血_SOS ,_O 无_Ab 胸_BP 痛_SOS 、_O 胸_BP 闷_SOS ,_O 无_Ab 心_BP 悸_SOS 、_O 气促_SOS 。_O 
+患者_Gr 就诊_E 于_O 深圳市_O 人民医院_O ,_O 查_HB 胸_BP 部_Sp CT_EP :_Pre 两_O 肺_BP 胸膜_BP 下_Sp 多发_SOS 结节_SOS ,_O 考虑_Prob 肿瘤性_Ql 病变_SOS 。_O 
+给予_HB “_O 抗感染_TP 、_O 祛痰_TP ”_O 等_O 对症处理_HB 后_T ,_O 患者_Gr 症状_SOS 好转_E 出院_E 。_O 
+1_O 月_O 前_T 患者_Gr 再次_T 因_CE 咳嗽_SOS 、_O 咳痰_SOS ,_O 在_O 我院_O 呼吸科_O 住院治疗_HB ,_O 入院_E 查_HB 胸_BP 部_Sp CT_EP :_Pre 双_O 肺_BP 多发_SOS 占位_SOS ,_O 考虑_Prob 周围型_Ql 肺_BP Ca_Di 并_O 肺_BP 内_Sp 转移_SOS 可能_Prob ,_O 建议_HB CT_EP 引导_HB 下_O 穿刺_TP 活检_EP 活检_EP 定性_HB 。_O 
+2_O 、_O 左_Sp 肺_BP 上_Sp 叶_BP 炎症_SOS ,_O 左侧_Sp 少量_Ql 胸腔_BP 积液_SOS 。_O 
+3_O 、_O 左_Sp 肺_BP 门_Sp 及_O 纵膈_BP 多发_SOS 肿大_SOS 淋巴结_BP ;_O 右_Sp 肺_BP 门_Sp 及_O 纵膈_BP 多发_SOS 钙化_SOS 。_O 
+4_O 、_O 胸_BP 主动脉_BP 及_O 冠状_Ql 动脉_BP 粥样_Ql 硬化_SOS ;_O 肺_BP 癌_Di 标记物_EP 高_Ql 。_O 
